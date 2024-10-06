@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "AppFormaturaGabi",
+    "slug": "appformaturagabi",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.anonymous.appformaturagabi"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "78df78c5-8724-4ef1-8990-77d8e50c7e24"
+      }
+    }
+  }
+}
